@@ -1,0 +1,1 @@
+﻿powershell -executionpolicy bypass -file HP-BiosUpdate.ps1 -action install -selection all
